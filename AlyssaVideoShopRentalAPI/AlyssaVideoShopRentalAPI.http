@@ -1,0 +1,6 @@
+@AlyssaVideoShopRentalAPI_HostAddress = http://localhost:5224
+
+GET {{AlyssaVideoShopRentalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
